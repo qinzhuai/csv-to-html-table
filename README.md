@@ -4,6 +4,9 @@ Display any CSV file as a searchable, filterable, pretty HTML table. Done in 100
 
 Check out the working demo: http://derekeder.github.io/csv-to-html-table/
 
+http://ico.topcoins.ca
+
+
 ## Usage
 
 #### 1. Clone this repository (in the command line)
