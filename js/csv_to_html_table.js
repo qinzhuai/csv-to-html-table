@@ -12,6 +12,7 @@ CsvToHtmlTable = {
       var custom_formatting = options.custom_formatting || [];
 
       $("#" + el).html("<table class='table table-striped table-condensed' id='" + el + "-table'></table>");
+		//$("#" + el).html("<table class='ui celled table' width='100%'  id='" + el + "-table'></table>");
 
       $.when($.get(csv_path)).then(
         function(data){      
