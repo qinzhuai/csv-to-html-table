@@ -2,9 +2,11 @@
 
 Display any CSV file as a searchable, filterable, pretty HTML table. Done in 100% JavaScript.
 
-Check out the working demo: http://derekeder.github.io/csv-to-html-table/
+I integrate the crypto ICO data with CSV table. It is really a simple and good open source project.
 
-http://ico.topcoins.ca
+Check out the working ICO demo: https://qinzhuai.github.io/csv-to-html-table/
+
+Production: http://ico.topcoins.ca
 
 
 ## Usage
